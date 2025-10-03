@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Alum\\Desktop\\DOCUMENTOS GITHUB\\Practicas_hamsakharmich\\practicas-compilador\\practicas-compilador.csproj": {}
+    "D:\\Users\\Alum\\Desktop\\practicas-compilador\\practicas-compilador.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Alum\\Desktop\\DOCUMENTOS GITHUB\\Practicas_hamsakharmich\\practicas-compilador\\practicas-compilador.csproj": {
+    "D:\\Users\\Alum\\Desktop\\practicas-compilador\\practicas-compilador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Alum\\Desktop\\DOCUMENTOS GITHUB\\Practicas_hamsakharmich\\practicas-compilador\\practicas-compilador.csproj",
+        "projectUniqueName": "D:\\Users\\Alum\\Desktop\\practicas-compilador\\practicas-compilador.csproj",
         "projectName": "practicas-compilador",
-        "projectPath": "D:\\Users\\Alum\\Desktop\\DOCUMENTOS GITHUB\\Practicas_hamsakharmich\\practicas-compilador\\practicas-compilador.csproj",
+        "projectPath": "D:\\Users\\Alum\\Desktop\\practicas-compilador\\practicas-compilador.csproj",
         "packagesPath": "D:\\Users\\Alum\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Alum\\Desktop\\DOCUMENTOS GITHUB\\Practicas_hamsakharmich\\practicas-compilador\\obj\\",
+        "outputPath": "D:\\Users\\Alum\\Desktop\\practicas-compilador\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\Alum\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "practicas-compilador/1.0.0": {
+        "runtime": {
+          "practicas-compilador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "practicas-compilador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

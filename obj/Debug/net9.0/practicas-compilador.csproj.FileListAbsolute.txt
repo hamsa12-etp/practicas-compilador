@@ -1,0 +1,15 @@
+D:\Users\Alum\Desktop\practicas-compilador\bin\Debug\net9.0\practicas-compilador.exe
+D:\Users\Alum\Desktop\practicas-compilador\bin\Debug\net9.0\practicas-compilador.deps.json
+D:\Users\Alum\Desktop\practicas-compilador\bin\Debug\net9.0\practicas-compilador.runtimeconfig.json
+D:\Users\Alum\Desktop\practicas-compilador\bin\Debug\net9.0\practicas-compilador.dll
+D:\Users\Alum\Desktop\practicas-compilador\bin\Debug\net9.0\practicas-compilador.pdb
+D:\Users\Alum\Desktop\practicas-compilador\obj\Debug\net9.0\practicas-compilador.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alum\Desktop\practicas-compilador\obj\Debug\net9.0\practicas-compilador.AssemblyInfoInputs.cache
+D:\Users\Alum\Desktop\practicas-compilador\obj\Debug\net9.0\practicas-compilador.AssemblyInfo.cs
+D:\Users\Alum\Desktop\practicas-compilador\obj\Debug\net9.0\practicas-compilador.csproj.CoreCompileInputs.cache
+D:\Users\Alum\Desktop\practicas-compilador\obj\Debug\net9.0\practicas-compilador.sourcelink.json
+D:\Users\Alum\Desktop\practicas-compilador\obj\Debug\net9.0\practicas-compilador.dll
+D:\Users\Alum\Desktop\practicas-compilador\obj\Debug\net9.0\refint\practicas-compilador.dll
+D:\Users\Alum\Desktop\practicas-compilador\obj\Debug\net9.0\practicas-compilador.pdb
+D:\Users\Alum\Desktop\practicas-compilador\obj\Debug\net9.0\practicas-compilador.genruntimeconfig.cache
+D:\Users\Alum\Desktop\practicas-compilador\obj\Debug\net9.0\ref\practicas-compilador.dll
